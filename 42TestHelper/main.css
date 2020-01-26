@@ -1,0 +1,19 @@
+.input-box {
+    width: 600px;
+    height: 250px;
+    resize: none;
+}
+
+.submit-button {
+    float: left;
+}
+
+.body {
+    padding-left: 5%;
+    font-family: sans-serif;
+}
+
+.input {
+    padding-bottom: 5%;
+    width: 650px;
+}
